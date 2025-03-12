@@ -33,4 +33,4 @@ import random
 # dx = 0
 # dy = 0
 vx = 100
-print(vx)
+a = vx
