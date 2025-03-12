@@ -32,6 +32,6 @@ import random
 #     print(sess.run(a_indices))
 # dx = 0
 # dy = 0
-# vx = 100
-# vy = 100
+vx = 100
+vy = 100
 print(random.uniform(-1, 1))
