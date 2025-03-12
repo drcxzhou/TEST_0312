@@ -33,5 +33,3 @@ import random
 # dx = 0
 # dy = 0
 vx = 100
-vy = 100
-print(random.uniform(-1, 1))
