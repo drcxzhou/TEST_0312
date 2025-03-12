@@ -34,4 +34,4 @@ import random
 # dy = 0
 vx = 100
 a = vx
-b = vx
+b = vx  # b表示中间变量
